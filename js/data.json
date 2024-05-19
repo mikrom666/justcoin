@@ -1,0 +1,52 @@
+{
+    "user": {
+      "id":"u77638839",
+      "name": "Donald E Hapner",
+      "email": "normadawn093@gmail.com",
+      "balance": "23.30 BTC",
+      "lastLogin": "2023-02-20T12:30:40Z"
+    },
+    
+  
+    "transactions": [
+      {
+        "id": "tx1",
+        "amount": 0.2,
+        "type": "Deposit",
+        "date": "2023-02-19T09:22:11Z"
+      },
+      {
+        "id": "tx2", 
+        "amount": 0.1,
+        "type": "Withdrawal",
+        "date": "2023-02-18T12:42:32Z"
+      }
+    ],
+  
+    "portfolio": [
+      {
+        "coin": "BTC",
+        "balance": 0.25,
+        "value": 10000
+      },
+      {
+        "coin": "ETH",
+        "balance": 5,
+        "value": 2000  
+      }
+    ],
+  
+    "themes": [
+      "light",
+      "dark",
+      "blue",
+      "green"    
+    ],
+  
+    "settings": {
+      "currentTheme": "light",
+      "notifications": true
+    }
+  
+  }
+  
